@@ -1,0 +1,4 @@
+{
+	"py": "autopep8 --in-place --aggressive",
+	"lua": "lua-format -i",
+}
